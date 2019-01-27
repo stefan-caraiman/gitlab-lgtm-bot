@@ -1,0 +1,14 @@
+Dockerfile text
+*.md text
+*.ctmpl text
+*.conf text
+*.yml text
+*.yaml text
+*.spec text
+.gitignore text
+.gitattributes text
+.dockerignore text
+*.sh text
+# Always use LF
+* text=lf
+* filter=spabs
