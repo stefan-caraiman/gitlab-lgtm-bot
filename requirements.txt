@@ -1,3 +1,6 @@
 pylint
 flake8
 tox
+quart
+python-gitlab
+aioredlock==0.3.0
